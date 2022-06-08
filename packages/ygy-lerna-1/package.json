@@ -1,6 +1,6 @@
 {
   "name": "ygy-lerna-1",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "> TODO: description",
   "author": "gloryyin <gloryyin@tencent.com>",
   "homepage": "",
@@ -17,5 +17,6 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "320c7272aeae2c7e02a4121d69c5c237721453b3"
 }
