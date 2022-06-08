@@ -1,6 +1,6 @@
 {
   "name": "ygy-lerna-2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "gloryyin <gloryyin@tencent.com>",
   "homepage": "",
@@ -18,8 +18,5 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "dependencies": {
-    "ygy-lerna-1": "0.0.2"
   }
 }
