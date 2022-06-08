@@ -1,13 +1,12 @@
 {
   "name": "ygy-lerna-1",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "> TODO: description",
   "author": "gloryyin <gloryyin@tencent.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/ygy-lerna-1.js",
   "directories": {
-    "lib": "lib",
     "test": "__tests__"
   },
   "files": [
