@@ -3,5 +3,5 @@
 module.exports = ygyLerna2;
 
 function ygyLerna2() {
-    // TODO
+    // console.log();
 }
